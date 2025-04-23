@@ -85,7 +85,6 @@ const Sidebar: React.FC<SidebarProps> = ({ onClose }) => {
     },
   ];
 
-  // Dummy user data
   const userData = {
     name: 'Alex Johnson',
     email: 'alex@example.com',
@@ -95,7 +94,6 @@ const Sidebar: React.FC<SidebarProps> = ({ onClose }) => {
 
   return (
     <div className="h-full w-64 bg-white shadow-lg flex flex-col">
-      {/* Mobile close button */}
       <div className="md:hidden flex justify-end p-2">
         <button 
           onClick={onClose}
@@ -107,7 +105,6 @@ const Sidebar: React.FC<SidebarProps> = ({ onClose }) => {
         </button>
       </div>
 
-      {/* Logo */}
       <div className="px-6 pt-6 pb-8">
         <div className="flex items-center">
           <div className="bg-gradient-to-r from-primary to-secondary p-2 rounded-lg mr-3">
@@ -120,7 +117,6 @@ const Sidebar: React.FC<SidebarProps> = ({ onClose }) => {
         </div>
       </div>
 
-      {/* User info */}
       <div className="px-6 py-4 border-t border-b border-gray-200 bg-primary/5">
         <div className="flex items-center">
           <img src={userData.avatar} alt="User" className="w-10 h-10 rounded-full border-2 border-primary" />
@@ -131,7 +127,6 @@ const Sidebar: React.FC<SidebarProps> = ({ onClose }) => {
         </div>
       </div>
 
-      {/* Navigation */}
       <nav className="flex-1 px-3 py-4 space-y-1 overflow-y-auto">
         {menuItems.map((item) => {
           const isActive = pathname === item.href;
@@ -157,7 +152,6 @@ const Sidebar: React.FC<SidebarProps> = ({ onClose }) => {
         })}
       </nav>
 
-      {/* Footer */}
       <div className="p-4 border-t border-gray-200">
         <Link 
           href="/" 

@@ -11,7 +11,6 @@ const CommunityPage = () => {
         
         <div className="grid gap-6 md:grid-cols-3">
           <div className="md:col-span-2">
-            {/* Discussion Board */}
             <div className="bg-white rounded-lg shadow-md p-6 mb-6 border border-gray-100">
               <div className="flex justify-between items-center mb-6">
                 <h2 className="text-xl font-semibold text-gray-800">Discussion Board</h2>
@@ -23,9 +22,7 @@ const CommunityPage = () => {
                 </button>
               </div>
               
-              {/* Posts */}
               <div className="space-y-6">
-                {/* Post 1 */}
                 <div className="border-b pb-6">
                   <div className="flex items-start">
                     <img src="https://randomuser.me/api/portraits/women/42.jpg" alt="User" className="w-10 h-10 rounded-full mr-3" />
@@ -57,7 +54,6 @@ const CommunityPage = () => {
                   </div>
                 </div>
                 
-                {/* Post 2 */}
                 <div className="border-b pb-6">
                   <div className="flex items-start">
                     <img src="https://randomuser.me/api/portraits/men/55.jpg" alt="User" className="w-10 h-10 rounded-full mr-3" />
