@@ -1,4 +1,4 @@
-import React, { useState, useRef, useEffect, useCallback } from 'react';
+import React, { useState, useRef, useEffect, useCallback, useId } from 'react';
 import Button from '../ui/Button';
 import Card from '../ui/Card';
 import api, { ChatMessage, VideoResource, WebResource } from '../../services/api';
@@ -10,6 +10,9 @@ interface SupportChatProps {
 }
 
 const SupportChat: React.FC<SupportChatProps> = ({ userId, initialChatId, className = '' }) => {
+  const formId = useId();
+  const inputId = useId();
+
   const [chatId, setChatId] = useState<string | undefined>(initialChatId);
   const [messages, setMessages] = useState<ChatMessage[]>([]);
   const [inputValue, setInputValue] = useState('');
@@ -20,7 +23,7 @@ const SupportChat: React.FC<SupportChatProps> = ({ userId, initialChatId, classN
   const [isSearching, setIsSearching] = useState(false);
   const [realTimeResults, setRealTimeResults] = useState<VideoResource[]>([]);
   const [showRealTimeResults, setShowRealTimeResults] = useState(false);
-  
+
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
   const searchTimeoutRef = useRef<NodeJS.Timeout | null>(null);
@@ -310,7 +313,7 @@ const SupportChat: React.FC<SupportChatProps> = ({ userId, initialChatId, classN
 
       {/* Input area */}
       <div className="border-t p-4 bg-white">
-        <form onSubmit={handleSendMessage} className="flex flex-col gap-2">
+        <form id={formId} onSubmit={handleSendMessage} className="flex flex-col gap-2">
           {/* Real-time search results */}
           {showRealTimeResults && realTimeResults.length > 0 && (
             <div className="bg-white border border-gray-200 rounded-lg p-2 mb-2 shadow-md">
@@ -354,6 +357,7 @@ const SupportChat: React.FC<SupportChatProps> = ({ userId, initialChatId, classN
 
           <div className="flex gap-2 items-center">
             <input
+              id={inputId}
               type="text"
               value={inputValue}
               onChange={(e) => setInputValue(e.target.value)}

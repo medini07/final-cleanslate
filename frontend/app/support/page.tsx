@@ -12,21 +12,8 @@ const SupportPage: React.FC = () => {
     const storedUserId = localStorage.getItem('userId');
     if (storedUserId) {
       setUserId(storedUserId);
-    } else {
-      // Redirect to home if no userId is found
-      window.location.href = '/';
     }
   }, []);
-
-  if (!userId) {
-    return (
-      <MainLayout>
-        <div className="flex items-center justify-center h-full">
-          <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-primary"></div>
-        </div>
-      </MainLayout>
-    );
-  }
 
   return (
     <MainLayout>

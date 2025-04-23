@@ -1,51 +1,53 @@
-import React, { ButtonHTMLAttributes } from 'react';
+import React, { useId } from 'react';
 
-interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
+interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
   variant?: 'primary' | 'secondary' | 'outline';
   size?: 'sm' | 'md' | 'lg';
-  fullWidth?: boolean;
   isLoading?: boolean;
+  fullWidth?: boolean;
+  className?: string;
 }
 
 const Button: React.FC<ButtonProps> = ({
   children,
   variant = 'primary',
   size = 'md',
-  fullWidth = false,
   isLoading = false,
+  fullWidth = false,
   className = '',
-  disabled,
   ...props
 }) => {
-  const baseStyles = 'font-medium rounded-lg transition-all shadow-md hover:shadow-lg focus:outline-none focus:ring-2 focus:ring-opacity-50 relative';
+  const buttonId = useId();
+
+  const baseClasses = "font-medium rounded-lg transition-all shadow-md hover:shadow-lg focus:outline-none focus:ring-2 focus:ring-offset-2";
   
-  const variantStyles = {
-    primary: 'bg-primary text-text-light hover:bg-primary/90 focus:ring-primary/50',
-    secondary: 'bg-secondary text-text-light hover:bg-secondary/90 focus:ring-secondary/50',
-    outline: 'bg-transparent border-2 border-primary text-primary hover:bg-primary/10 focus:ring-primary/30'
+  const variantClasses = {
+    primary: "bg-primary text-white hover:bg-primary/90 focus:ring-primary/50",
+    secondary: "bg-secondary text-white hover:bg-secondary/90 focus:ring-secondary/50",
+    outline: "border-2 border-primary text-primary hover:bg-primary/10 focus:ring-primary/50"
   };
-  
-  const sizeStyles = {
-    sm: 'py-1 px-3 text-sm',
-    md: 'py-2 px-4 text-base',
-    lg: 'py-3 px-6 text-lg'
+
+  const sizeClasses = {
+    sm: "px-3 py-1.5 text-sm",
+    md: "px-4 py-2",
+    lg: "px-6 py-3 text-lg"
   };
-  
-  const widthStyle = fullWidth ? 'w-full' : '';
-  const isDisabled = disabled || isLoading;
-  
+
   return (
     <button
-      className={`${baseStyles} ${variantStyles[variant]} ${sizeStyles[size]} ${widthStyle} ${className} ${isDisabled ? 'opacity-70 cursor-not-allowed' : ''}`}
-      disabled={isDisabled}
+      id={buttonId}
+      className={`${baseClasses} ${variantClasses[variant]} ${sizeClasses[size]} ${fullWidth ? 'w-full' : ''} ${className}`}
+      disabled={isLoading}
       {...props}
     >
       {isLoading ? (
         <div className="flex items-center justify-center">
-          <div className="mr-2 h-4 w-4 animate-spin rounded-full border-2 border-t-transparent border-white"></div>
-          <span className="opacity-75">Loading...</span>
+          <div className="w-5 h-5 border-2 border-white border-t-transparent rounded-full animate-spin mr-2"></div>
+          Loading...
         </div>
-      ) : children}
+      ) : (
+        children
+      )}
     </button>
   );
 };

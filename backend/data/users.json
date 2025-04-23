@@ -495,6 +495,513 @@
       "progress": {
         "dailyLogs": []
       }
+    },
+    {
+      "userId": "828cec18-3e70-4fa5-8b60-e797c008707b",
+      "profile": {
+        "age": 34,
+        "cigarettesPerDay": 10,
+        "cigaretteType": "Regular",
+        "startDate": "2025-04-23"
+      },
+      "plan": {
+        "weeklyGoals": [
+          {
+            "week": 1,
+            "dailyLimit": 9,
+            "strategies": [
+              "Keep a detailed smoking journal: Track each cigarette smoked, noting the time, activity, and craving level. This will help identify triggers.",
+              "Delay smoking by 30 minutes each time the urge arises. This disrupts the habitual pattern and gives the craving a chance to subside.",
+              "Replace smoking with a healthy habit: When you crave a cigarette, drink a glass of water, chew gum, or take a short walk.",
+              "Identify your smoking triggers: Make a list of situations, emotions, or people that make you want to smoke and brainstorm alternative coping mechanisms for each."
+            ],
+            "tips": [
+              "Remember why you're quitting: Write down your reasons for quitting and read them daily. Focus on the health benefits, financial savings, and improved quality of life.",
+              "Visualize success: Imagine yourself as a non-smoker, enjoying the benefits of a smoke-free life. This can boost your confidence and motivation."
+            ]
+          },
+          {
+            "week": 2,
+            "dailyLimit": 8,
+            "strategies": [
+              "Practice deep breathing exercises: Deep breathing can help reduce stress and anxiety, which are common smoking triggers.",
+              "Use nicotine replacement therapy (NRT) if appropriate: Consider nicotine patches or gum to manage cravings. Discuss this with your doctor or pharmacist.",
+              "Avoid your smoking triggers: If possible, stay away from situations or people that make you want to smoke. If avoidance isn't possible, prepare coping strategies in advance.",
+              "Reward yourself for progress: Set small goals and reward yourself when you achieve them. This will help you stay motivated."
+            ],
+            "tips": [
+              "Focus on the short-term: Don't worry about quitting forever. Just focus on getting through each day without smoking.",
+              "Connect with a support system: Talk to your friends, family, or a support group about your struggles and successes. Sharing your experiences can help you stay on track."
+            ]
+          },
+          {
+            "week": 3,
+            "dailyLimit": 7,
+            "strategies": [
+              "Engage in physical activity: Exercise releases endorphins, which can help reduce cravings and improve your mood.",
+              "Change your routine: Break your smoking routine by doing things differently. For example, if you usually smoke after meals, try going for a walk instead.",
+              "Use positive self-talk: Replace negative thoughts with positive affirmations. Tell yourself that you can quit and that you're strong enough to overcome your cravings.",
+              "Keep your hands busy: Fidget with a stress ball, a pen, or a small puzzle to keep your hands occupied."
+            ],
+            "tips": [
+              "Celebrate your achievements: Acknowledge how far you've come and celebrate your progress. This will help you stay motivated and committed.",
+              "Learn from your mistakes: If you slip up and smoke a cigarette, don't beat yourself up. Just learn from the experience and get back on track."
+            ]
+          },
+          {
+            "week": 4,
+            "dailyLimit": 6,
+            "strategies": [
+              "Drink plenty of water: Water can help flush nicotine from your system and reduce cravings.",
+              "Avoid alcohol and caffeine: These substances can trigger cravings and make it harder to quit.",
+              "Practice mindfulness: Pay attention to your thoughts and feelings without judgment. This can help you become more aware of your cravings and learn to manage them.",
+              "Spend time in smoke-free environments: This will reduce your exposure to smoking cues and make it easier to resist cravings."
+            ],
+            "tips": [
+              "Be patient with yourself: Quitting smoking is a challenging process, and it takes time to adjust. Be kind to yourself and don't give up.",
+              "Remember that cravings are temporary: Cravings usually last only a few minutes. Remind yourself that they will pass and that you can get through them."
+            ]
+          },
+          {
+            "week": 5,
+            "dailyLimit": 5,
+            "strategies": [
+              "Continue using NRT as needed: Adjust the dosage based on your cravings and withdrawal symptoms. Consult with your doctor or pharmacist.",
+              "Identify and address any underlying emotional issues: Smoking may be a way to cope with stress, anxiety, or depression. Seek professional help if needed.",
+              "Plan for challenging situations: Anticipate situations where you'll be tempted to smoke and develop strategies to cope with them. For example, prepare a response if someone offers you a cigarette.",
+              "Practice relaxation techniques: Yoga, meditation, or progressive muscle relaxation can help reduce stress and anxiety."
+            ],
+            "tips": [
+              "Stay focused on your goals: Keep your reasons for quitting top of mind and remind yourself of the benefits you'll experience.",
+              "Believe in yourself: You have the strength and determination to quit smoking. Trust in your ability to succeed."
+            ]
+          },
+          {
+            "week": 6,
+            "dailyLimit": 4,
+            "strategies": [
+              "Engage in hobbies and activities that you enjoy: This will help distract you from cravings and keep you busy.",
+              "Avoid negative influences: Surround yourself with people who support your decision to quit.",
+              "Continue to track your progress: Monitor your cravings and withdrawal symptoms and adjust your strategies as needed.",
+              "Consider joining a smoking cessation program: A structured program can provide you with support, education, and guidance."
+            ],
+            "tips": [
+              "Celebrate small victories: Acknowledge and reward yourself for each milestone you reach.",
+              "Don't be afraid to ask for help: If you're struggling, reach out to your support system or a healthcare professional."
+            ]
+          },
+          {
+            "week": 7,
+            "dailyLimit": 2,
+            "strategies": [
+              "Use NRT sparingly and strategically: Use it only when cravings are intense and difficult to manage.",
+              "Prepare for triggers that still arise: Even if infrequent, have a plan in place for known triggers.",
+              "Review your progress and identify what has worked best: Reinforce successful strategies and adapt those that haven't been as effective.",
+              "Continue healthy habits: Prioritize sleep, hydration, and nutrition to support your body and mind."
+            ],
+            "tips": [
+              "Acknowledge the difficulty and keep pushing forward: The last few cigarettes can be the hardest to quit.",
+              "Remember the improvements to your health and well-being already gained."
+            ]
+          },
+          {
+            "week": 8,
+            "dailyLimit": 0,
+            "strategies": [
+              "Completely abstain from smoking: This is the final step in quitting.",
+              "Continue using coping strategies: Even though you're not smoking, continue to use the strategies that have helped you manage cravings.",
+              "Avoid complacency: Stay vigilant and be aware of potential triggers that could lead to relapse.",
+              "Focus on maintaining your smoke-free lifestyle: Make a commitment to stay quit for the long term."
+            ],
+            "tips": [
+              "Congratulate yourself on your success: You've accomplished something amazing. Be proud of yourself and your hard work.",
+              "Celebrate your new smoke-free life: Enjoy the many benefits of being a non-smoker, such as improved health, increased energy, and more money in your pocket."
+            ]
+          }
+        ]
+      },
+      "progress": {
+        "dailyLogs": []
+      }
+    },
+    {
+      "userId": "7254d0cf-708f-4522-bdc4-1886925dca6a",
+      "profile": {
+        "age": 20,
+        "cigarettesPerDay": 5,
+        "cigaretteType": "Regular",
+        "startDate": "2025-04-23"
+      },
+      "plan": {
+        "weeklyGoals": [
+          {
+            "week": 1,
+            "dailyLimit": 5,
+            "strategies": [
+              "Track each cigarette smoked: Keep a small notebook or use a smartphone app to record the time, place, and reason for each cigarette. This increases awareness of smoking triggers.",
+              "Delay each cigarette by 15 minutes: When the urge to smoke arises, tell yourself you'll have one in 15 minutes. Often the craving will pass.",
+              "Identify your triggers: Recognize situations, emotions, or people that make you want to smoke. Begin to develop alternative behaviors for these triggers (e.g., go for a walk instead of smoking after a meal).",
+              "Substitute oral fixation: Chew sugar-free gum, suck on hard candies, or use a straw to drink water. This can help satisfy the hand-to-mouth habit."
+            ],
+            "tips": [
+              "Visualize success: Imagine yourself successfully quitting smoking and enjoying a healthier, smoke-free life.",
+              "Remember your reasons for quitting: Write down all the reasons you want to quit (e.g., health, cost, better relationships) and review them daily."
+            ]
+          },
+          {
+            "week": 2,
+            "dailyLimit": 4,
+            "strategies": [
+              "Replace a cigarette with a healthy activity: Instead of smoking during a break, go for a short walk, do some stretching, or listen to your favorite music.",
+              "Avoid smoking environments: Stay away from places and people where you are likely to smoke. If your friends smoke, ask them not to smoke around you.",
+              "Practice deep breathing exercises: When you feel a craving, take 5-10 slow, deep breaths. This can help calm your nerves and reduce the urge to smoke.",
+              "Drink plenty of water: Staying hydrated can help flush nicotine from your system and reduce cravings."
+            ],
+            "tips": [
+              "Reward yourself for progress: Acknowledge your achievements each week with a small, non-smoking-related reward (e.g., a movie, a new book).",
+              "Don't be discouraged by slips: If you have a cigarette over your limit, don't give up. Acknowledge the slip, learn from it, and recommit to your goal."
+            ]
+          },
+          {
+            "week": 3,
+            "dailyLimit": 3,
+            "strategies": [
+              "Use nicotine replacement therapy (NRT): Consider using nicotine patches, gum, or lozenges to help manage withdrawal symptoms. Consult with a doctor or pharmacist to determine the best option for you.",
+              "Change your routine: Alter your daily schedule to avoid situations that trigger smoking (e.g., take a different route to school or work).",
+              "Clean and declutter your smoking areas: Remove ashtrays, lighters, and cigarettes from your home, car, and workplace."
+            ],
+            "tips": [
+              "Focus on the positive changes: Pay attention to the improvements in your health and well-being (e.g., increased energy, better sense of smell).",
+              "Reach out for support: Talk to your friends, family, or a therapist about your struggles and successes. Joining a support group can also be helpful."
+            ]
+          },
+          {
+            "week": 4,
+            "dailyLimit": 2,
+            "strategies": [
+              "Practice mindfulness meditation: Spend a few minutes each day focusing on your breath and observing your thoughts and feelings without judgment. This can help you manage cravings and stress.",
+              "Engage in physical activity: Exercise can help reduce cravings and improve your mood. Aim for at least 30 minutes of moderate-intensity exercise most days of the week.",
+              "Identify alternative coping mechanisms: Develop healthy ways to cope with stress, anxiety, or boredom (e.g., listening to music, spending time in nature, engaging in a hobby)."
+            ],
+            "tips": [
+              "Track your savings: Calculate how much money you're saving by smoking fewer cigarettes and use it to treat yourself to something you enjoy.",
+              "Celebrate milestones: Acknowledge and celebrate each milestone you reach in your quitting journey."
+            ]
+          },
+          {
+            "week": 5,
+            "dailyLimit": 1,
+            "strategies": [
+              "Continue using NRT if needed: If you are using NRT, continue using it as directed to manage withdrawal symptoms.",
+              "Avoid alcohol and caffeine: These substances can trigger cravings and make it harder to quit smoking.",
+              "Prepare for challenging situations: Anticipate situations where you might be tempted to smoke and develop a plan for how you will handle them."
+            ],
+            "tips": [
+              "Remember that cravings are temporary: Cravings typically last only a few minutes. Remind yourself that they will pass.",
+              "Visualize a future without cigarettes: Imagine yourself as a non-smoker and all the benefits that come with it."
+            ]
+          },
+          {
+            "week": 6,
+            "dailyLimit": 0,
+            "strategies": [
+              "Recognize and manage withdrawal symptoms: Be aware of potential withdrawal symptoms (e.g., irritability, anxiety, difficulty concentrating) and have strategies in place to manage them.",
+              "Stay busy: Keep yourself occupied with activities that you enjoy and that distract you from smoking.",
+              "Seek professional help if needed: If you are struggling to quit smoking, consider seeking help from a therapist or counselor."
+            ],
+            "tips": [
+              "You're doing great! Remember all the progress you've made so far.",
+              "Imagine how great it will feel to be completely free from nicotine addiction."
+            ]
+          },
+          {
+            "week": 7,
+            "dailyLimit": 0,
+            "strategies": [
+              "Avoid triggers: Continue to avoid situations and people that trigger your cravings.",
+              "Practice relapse prevention techniques: Review your triggers and coping strategies regularly.",
+              "Focus on the long-term benefits of quitting: Remind yourself of the health, financial, and social benefits of being a non-smoker."
+            ],
+            "tips": [
+              "You've made it to week 7! You are a non-smoker!",
+              "Focus on maintaining your quit for the long haul. You can do it!"
+            ]
+          },
+          {
+            "week": 8,
+            "dailyLimit": 0,
+            "strategies": [
+              "Maintain a healthy lifestyle: Eat a balanced diet, exercise regularly, and get enough sleep.",
+              "Continue to seek support: Stay connected with your support network and attend support group meetings if needed.",
+              "Celebrate your success: Reward yourself for achieving your goal of quitting smoking."
+            ],
+            "tips": [
+              "Congratulations! You are a successful quitter!",
+              "Remember why you quit and never look back!"
+            ]
+          }
+        ]
+      },
+      "progress": {
+        "dailyLogs": []
+      }
+    },
+    {
+      "userId": "154819ef-86a5-4eaf-aa62-e23da3516577",
+      "profile": {
+        "age": 45,
+        "cigarettesPerDay": 20,
+        "cigaretteType": "Menthol",
+        "startDate": "2025-04-23"
+      },
+      "plan": {
+        "weeklyGoals": [
+          {
+            "week": 1,
+            "dailyLimit": 17,
+            "strategies": [
+              "Switch to a non-menthol cigarette: This will disrupt the familiar sensation and reduce the appeal, as menthol enhances nicotine's effects.",
+              "Delay your first cigarette of the day by 1 hour: This helps break the morning habit and build willpower early on.",
+              "Identify your smoking triggers: Keep a log of when, where, and why you smoke each cigarette. Understanding triggers is crucial for avoidance.",
+              "Practice deep breathing exercises: When cravings hit, take 5 slow, deep breaths. This helps manage anxiety and stress that often leads to smoking.",
+              "Use nicotine replacement therapy (NRT) as needed: Patches, gum, or lozenges can help manage nicotine withdrawal symptoms and reduce cravings. Consult with a doctor or pharmacist about the best option for you."
+            ],
+            "tips": [
+              "Remember why you're doing this: Write down your reasons for quitting and read them daily. Focus on the long-term health benefits and improved quality of life.",
+              "Celebrate small victories: Acknowledge and reward yourself for each day you meet your target. It's about progress, not perfection."
+            ]
+          },
+          {
+            "week": 2,
+            "dailyLimit": 14,
+            "strategies": [
+              "Avoid your smoking triggers: Minimize exposure to situations and people that make you want to smoke. This could involve changing routines or avoiding certain social events.",
+              "Engage in distracting activities: When a craving hits, find something to occupy your mind, such as reading, listening to music, or doing a chore.",
+              "Drink plenty of water: Staying hydrated can help flush out nicotine and reduce cravings. Carry a water bottle with you and sip on it throughout the day.",
+              "Chew sugar-free gum or suck on hard candies: This can help satisfy the oral fixation associated with smoking."
+            ],
+            "tips": [
+              "Focus on the positive: Notice how much better you feel each day. Improved breathing, increased energy levels, and a better sense of smell are all benefits of quitting.",
+              "Don't give up if you slip up: One cigarette doesn't mean failure. Learn from the experience and get back on track immediately."
+            ]
+          },
+          {
+            "week": 3,
+            "dailyLimit": 11,
+            "strategies": [
+              "Practice mindfulness: Pay attention to your thoughts and feelings without judgment. This can help you become more aware of your cravings and manage them more effectively.",
+              "Find a support system: Join a support group, talk to a therapist, or lean on friends and family for encouragement. Sharing your experiences can make the process easier.",
+              "Engage in regular physical activity: Exercise releases endorphins, which can help reduce stress and cravings. Aim for at least 30 minutes of moderate-intensity exercise most days of the week.",
+              "Use a smoking cessation app: Many apps offer tracking tools, motivational messages, and support communities."
+            ],
+            "tips": [
+              "Visualize your success: Imagine yourself as a non-smoker and how much better your life will be. This can help you stay motivated.",
+              "Remember the money you're saving: Calculate how much money you're spending on cigarettes and think about what else you could do with that money."
+            ]
+          },
+          {
+            "week": 4,
+            "dailyLimit": 8,
+            "strategies": [
+              "Change your surroundings: Spend time in smoke-free environments, such as libraries, museums, or parks. This can help reduce your exposure to triggers.",
+              "Reward yourself for milestones: Treat yourself to something you enjoy after reaching certain goals, such as a massage, a new book, or a weekend getaway.",
+              "Practice assertive communication: If you're in a situation where others are smoking, politely decline and explain that you're trying to quit.",
+              "Continue using NRT as directed by your doctor/pharmacist."
+            ],
+            "tips": [
+              "Think about the people you care about: Remember how your smoking affects your loved ones and how quitting will improve their lives as well.",
+              "Be patient with yourself: Quitting smoking is a challenging process, so be kind to yourself and celebrate every step you take."
+            ]
+          },
+          {
+            "week": 5,
+            "dailyLimit": 5,
+            "strategies": [
+              "Continue avoiding triggers: Stay vigilant about avoiding situations, people, and places that make you want to smoke.",
+              "Focus on the present moment: When a craving hits, try to focus on your breath or your senses. This can help you ground yourself and reduce the intensity of the craving.",
+              "Explore alternative stress-management techniques: Yoga, meditation, and progressive muscle relaxation can all help you cope with stress without resorting to smoking.",
+              "Remind yourself of all the benefits of quitting that you are already experiencing."
+            ],
+            "tips": [
+              "Imagine your future as a non-smoker: Picture yourself enjoying all the things you love without the burden of smoking. This can help you stay motivated.",
+              "Remember how far you've come: Reflect on all the progress you've made and how much stronger you've become. You're almost there!"
+            ]
+          },
+          {
+            "week": 6,
+            "dailyLimit": 3,
+            "strategies": [
+              "Prepare for challenging situations: Anticipate situations where you might be tempted to smoke and develop strategies for coping with them in advance.",
+              "Use positive self-talk: Remind yourself that you're strong, capable, and committed to quitting. Replace negative thoughts with positive affirmations.",
+              "Review your reasons for quitting: Revisit the list of reasons you wrote down in week one and remind yourself why you started this journey.",
+              "Consult a therapist or counselor if needed: Professional support can be invaluable in helping you overcome cravings and manage withdrawal symptoms."
+            ],
+            "tips": [
+              "Believe in yourself: You have the strength and determination to quit smoking. Trust in your ability to succeed.",
+              "Know you are not alone, many people quit every day."
+            ]
+          },
+          {
+            "week": 7,
+            "dailyLimit": 1,
+            "strategies": [
+              "Practice relapse prevention techniques: Learn to recognize the warning signs of a relapse and develop strategies for avoiding them.",
+              "Limit alcohol consumption: Alcohol can lower your inhibitions and make it harder to resist cravings.",
+              "Continue using NRT, tapering the dose if advised by your healthcare provider.",
+              "Remember why you wanted to quit in the first place."
+            ],
+            "tips": [
+              "Stay vigilant: Even though you're almost there, it's important to stay focused and committed to your goal.",
+              "Embrace your new identity as a non-smoker: Celebrate your achievement and look forward to a healthier, happier future."
+            ]
+          },
+          {
+            "week": 8,
+            "dailyLimit": 0,
+            "strategies": [
+              "Avoid all cigarettes: A single cigarette can lead to a full-blown relapse. Stay strong and resist the urge to smoke, even if it's just one.",
+              "Continue to practice your coping strategies: Use the techniques you've learned to manage cravings and avoid triggers.",
+              "Maintain a healthy lifestyle: Eating a balanced diet, getting regular exercise, and getting enough sleep can all help you stay smoke-free.",
+              "Stay connected to your support system: Continue to lean on friends, family, or a support group for encouragement and guidance."
+            ],
+            "tips": [
+              "Celebrate your success: You've done it! Take pride in your accomplishment and enjoy your new smoke-free life.",
+              "Remember that quitting smoking is a journey, not a destination: Continue to stay vigilant and take care of yourself, and you'll be able to maintain your smoke-free status for years to come."
+            ]
+          }
+        ]
+      },
+      "progress": {
+        "dailyLogs": []
+      }
+    },
+    {
+      "userId": "5ae9f27f-5827-4aa3-a8ed-44906ce871a3",
+      "profile": {
+        "age": 34,
+        "cigarettesPerDay": 7,
+        "cigaretteType": "Strong",
+        "startDate": "2025-04-23"
+      },
+      "plan": {
+        "weeklyGoals": [
+          {
+            "week": 1,
+            "dailyLimit": 6,
+            "strategies": [
+              "Start by delaying your first cigarette of the day by 30 minutes",
+              "Identify your top 1 triggers and create an avoidance plan",
+              "Practice 5-minute deep breathing when cravings hit",
+              "Find 1 smoke-free activities to replace smoking moments"
+            ],
+            "tips": [
+              "Consider how quitting now can significantly improve your long-term health",
+              "Track your progress daily and celebrate small victories"
+            ]
+          },
+          {
+            "week": 2,
+            "dailyLimit": 5,
+            "strategies": [
+              "Delay your first cigarette by 60 minutes",
+              "Identify your top 2 triggers and create an avoidance plan",
+              "Practice 5-minute deep breathing when cravings hit",
+              "Find 2 smoke-free activities to replace smoking moments"
+            ],
+            "tips": [
+              "Consider how quitting now can significantly improve your long-term health",
+              "Track your progress daily and celebrate small victories"
+            ]
+          },
+          {
+            "week": 3,
+            "dailyLimit": 4,
+            "strategies": [
+              "Delay your first cigarette by 90 minutes",
+              "Identify your top 3 triggers and create an avoidance plan",
+              "Practice 5-minute deep breathing when cravings hit",
+              "Find 3 smoke-free activities to replace smoking moments"
+            ],
+            "tips": [
+              "Consider how quitting now can significantly improve your long-term health",
+              "Track your progress daily and celebrate small victories"
+            ]
+          },
+          {
+            "week": 4,
+            "dailyLimit": 4,
+            "strategies": [
+              "Delay your first cigarette by 120 minutes",
+              "Identify your top 4 triggers and create an avoidance plan",
+              "Practice 5-minute deep breathing when cravings hit",
+              "Find 4 smoke-free activities to replace smoking moments"
+            ],
+            "tips": [
+              "Consider how quitting now can significantly improve your long-term health",
+              "Track your progress daily and celebrate small victories"
+            ]
+          },
+          {
+            "week": 5,
+            "dailyLimit": 3,
+            "strategies": [
+              "Delay your first cigarette by 150 minutes",
+              "Identify your top 5 triggers and create an avoidance plan",
+              "Practice 5-minute deep breathing when cravings hit",
+              "Find 5 smoke-free activities to replace smoking moments"
+            ],
+            "tips": [
+              "Consider how quitting now can significantly improve your long-term health",
+              "Track your progress daily and celebrate small victories"
+            ]
+          },
+          {
+            "week": 6,
+            "dailyLimit": 2,
+            "strategies": [
+              "Delay your first cigarette by 180 minutes",
+              "Identify your top 6 triggers and create an avoidance plan",
+              "Practice 5-minute deep breathing when cravings hit",
+              "Find 6 smoke-free activities to replace smoking moments"
+            ],
+            "tips": [
+              "Consider how quitting now can significantly improve your long-term health",
+              "Track your progress daily and celebrate small victories"
+            ]
+          },
+          {
+            "week": 7,
+            "dailyLimit": 1,
+            "strategies": [
+              "Delay your first cigarette by 210 minutes",
+              "Identify your top 7 triggers and create an avoidance plan",
+              "Practice 5-minute deep breathing when cravings hit",
+              "Find 7 smoke-free activities to replace smoking moments"
+            ],
+            "tips": [
+              "Consider how quitting now can significantly improve your long-term health",
+              "Track your progress daily and celebrate small victories"
+            ]
+          },
+          {
+            "week": 8,
+            "dailyLimit": 0,
+            "strategies": [
+              "Delay your first cigarette by 240 minutes",
+              "Identify your top 8 triggers and create an avoidance plan",
+              "Practice 5-minute deep breathing when cravings hit",
+              "Find 8 smoke-free activities to replace smoking moments"
+            ],
+            "tips": [
+              "Consider how quitting now can significantly improve your long-term health",
+              "Track your progress daily and celebrate small victories"
+            ]
+          }
+        ]
+      },
+      "progress": {
+        "dailyLogs": []
+      }
     }
   ]
 }

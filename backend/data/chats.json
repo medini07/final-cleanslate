@@ -169,6 +169,280 @@
           "timestamp": "2025-04-23T11:44:22.082912"
         }
       ]
+    },
+    {
+      "chatId": "d6a18b74-1539-4795-81e4-1c520ee9c711",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-04-23T18:10:47.012940"
+        },
+        {
+          "role": "assistant",
+          "content": "Hang in there! Cravings are tough, but they *will* pass. Since you're having a strong craving right now, I suggest checking out the videos in the app. They offer a lot of helpful techniques. Some users find that deep breathing, doing a quick chore, or even just distracting themselves for a few minutes can really help. You've got this!\n",
+          "timestamp": "2025-04-23T18:10:48.336076"
+        }
+      ]
+    },
+    {
+      "chatId": "5c9415cd-7f4e-403c-a49f-5e956b8cac5e",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-04-23T18:10:50.022000"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm sorry to hear you're having a strong craving. That's completely normal, and it means you're working hard! Here's what you can do right now:\n\n*   **The 4 D's:**\n    *   **Delay:** Wait 5-10 minutes, and the craving might pass.\n    *   **Distract:** Do something engaging to take your mind off it.\n    *   **Drink Water:** Sip on water slowly.\n    *   **Deep Breaths:** Practice slow, deep breathing.\n\nYou might also find some helpful videos in the app for dealing with cravings. You've got this!\n",
+          "timestamp": "2025-04-23T18:10:51.640825"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: What should I do when I feel like smoking?",
+          "timestamp": "2025-04-23T18:10:55.835825"
+        },
+        {
+          "role": "assistant",
+          "content": "It's great that you're proactively thinking about this! When you feel the urge to smoke, remember those 4 D's: **Delay, Distract, Drink Water, and Deep Breathe.**\n\nAlso, try to identify what triggers these feelings. Is it a certain time of day, a place, or an emotion? Knowing your triggers can help you prepare coping strategies in advance.\n\nThere are also some very helpful videos in the app that offer different techniques and perspectives on managing cravings. Keep up the great work!\n",
+          "timestamp": "2025-04-23T18:10:57.576068"
+        },
+        {
+          "role": "user",
+          "content": "What should I do when I feel like smoking?",
+          "timestamp": "2025-04-23T18:10:57.603663"
+        },
+        {
+          "role": "assistant",
+          "content": "It's completely normal to feel like smoking, especially early in your quit journey. The 4 D's are a good place to start: **Delay, Distract, Drink Water, and Deep Breathe.**\n\nAlso, think about what's making you want to smoke right now. Is it stress, boredom, or being around other smokers? Once you identify the trigger, you can choose a coping strategy. If it's stress, try a quick meditation. If it's boredom, try a quick walk.\n\nDon't forget to check out the videos in the app for more tips and support! You've got this!\n",
+          "timestamp": "2025-04-23T18:10:59.174498"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: aur batao kya ha",
+          "timestamp": "2025-04-23T18:11:18.225934"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I understand you're looking for more resources. We have videos covering a range of topics, including dealing with specific triggers, success stories from others who have quit, and even relaxation techniques to manage cravings. I recommend browsing through the different categories to see what catches your eye! You might find something that resonates with you and provides the extra support you need right now. Keep exploring - you're doing great!\n",
+          "timestamp": "2025-04-23T18:11:19.541949"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: aur batao kya hal",
+          "timestamp": "2025-04-23T18:11:19.568238"
+        },
+        {
+          "role": "assistant",
+          "content": "It sounds like you are still looking for more! Our video library is packed with helpful content. Beyond the specific triggers and relaxation techniques, you can also find information about the science of nicotine addiction and its effects on the body. Understanding the \"why\" behind the cravings can sometimes make them easier to manage. Have a look through the descriptions and see if anything piques your interest. Remember, every little bit of knowledge helps!\n",
+          "timestamp": "2025-04-23T18:11:20.822195"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: aur batao kya ha",
+          "timestamp": "2025-04-23T18:11:20.852531"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I hear you! Still searching for more videos. Besides the trigger management and addiction science videos, we also have some focused on mindfulness and meditation techniques. These can be great for managing anxiety and stress, which often contribute to cravings. You can also find videos on exercises that can help distract you and provide a healthy outlet. Explore the options, and see if any of those sound helpful right now. Keep up the great work!\n",
+          "timestamp": "2025-04-23T18:11:22.348827"
+        },
+        {
+          "role": "user",
+          "content": "aur batao kya haal",
+          "timestamp": "2025-04-23T18:11:22.372721"
+        },
+        {
+          "role": "assistant",
+          "content": "Hi! It sounds like you are doing some more video searching. We have some videos on setting realistic goals and celebrating small victories. Quitting smoking is a marathon, not a sprint, and acknowledging your progress can be really motivating. You can also find stories from others who have successfully quit, which can be incredibly inspiring. Keep exploring and find what resonates with you!\n",
+          "timestamp": "2025-04-23T18:11:23.590818"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: i want to quit tod",
+          "timestamp": "2025-04-23T18:11:40.968537"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I hear you. Searching for videos related to quitting today. We have videos covering topics like managing triggers, understanding nicotine addiction, and coping with cravings. You might also find it helpful to check out videos on relaxation techniques and mindfulness. Remember, every step you take, big or small, is a step in the right direction. Keep going!\n",
+          "timestamp": "2025-04-23T18:11:42.120258"
+        },
+        {
+          "role": "user",
+          "content": "i want to quit today",
+          "timestamp": "2025-04-23T18:11:44.396397"
+        },
+        {
+          "role": "assistant",
+          "content": "That's great! Deciding to quit is the first and most important step. Since you're ready to quit today, I suggest watching some videos on managing triggers and understanding nicotine addiction, which can help you prepare for the challenges ahead. Focus on taking it one craving at a time and rewarding yourself for each milestone you achieve. You've got this!\n",
+          "timestamp": "2025-04-23T18:11:45.502214"
+        }
+      ]
+    },
+    {
+      "chatId": "7f94feec-6e42-4d15-87fc-a3d70e1922eb",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: How long do nicotine cravings usually last?",
+          "timestamp": "2025-04-23T18:52:22.600263"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I can help with that.\n\nNicotine cravings usually last for about 5-20 minutes. While that might feel like a long time, remember they *will* pass! The intensity will lessen over time as you stay smoke-free.\n\nKnowing how long they last can help you mentally prepare to ride them out. Try some quick distraction techniques like deep breathing, drinking water, or doing a quick chore. You might also find some helpful videos in the app with more tips! You've got this!\n",
+          "timestamp": "2025-04-23T18:52:25.573225"
+        }
+      ]
+    },
+    {
+      "chatId": "46fbd475-0c10-4551-bdba-757b745a6f97",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "How long do nicotine cravings usually last?",
+          "timestamp": "2025-04-23T18:52:25.617211"
+        },
+        {
+          "role": "assistant",
+          "content": "That's a great question! Nicotine cravings are different for everyone, but they usually peak within the first few days of quitting and then gradually decrease over the next few weeks. An individual craving itself usually lasts only a few minutes.\n\nThe intensity and frequency will lessen over time. Hang in there! In the meantime, try some quick strategies to distract yourself when a craving hits. Things like drinking a glass of water, doing some stretches, or calling a friend can really help. You might find our videos helpful too, they have useful tips and tricks! You've got this!\n",
+          "timestamp": "2025-04-23T18:52:27.298811"
+        }
+      ]
+    },
+    {
+      "chatId": "383905b1-833d-4bdb-aacc-47dc69ae7afc",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-04-23T21:11:42.701449"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-04-23T21:12:40.459490"
+        }
+      ]
+    },
+    {
+      "chatId": "86534a17-bd74-4575-a3ef-82879461b9e4",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-04-23T21:12:40.505936"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-04-23T21:13:40.260005"
+        }
+      ]
+    },
+    {
+      "chatId": "c1d1eabb-f932-4aef-a746-e5df731b8b35",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I had a relapse yesterday",
+          "timestamp": "2025-04-23T21:13:40.290381"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-04-23T21:14:34.713754"
+        }
+      ]
+    },
+    {
+      "chatId": "d6e0925d-76b8-443f-b672-477028cb185f",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-04-23T21:20:43.284155"
+        },
+        {
+          "role": "assistant",
+          "content": "Hang in there! Cravings are tough, but they don't last forever. Since you're experiencing a strong craving right now, I suggest watching some videos. They can give you tips and distractions to help you through this moment. Maybe try searching for videos on \"distraction techniques for cravings\" or \"mindfulness for smokers.\" You've got this!\n",
+          "timestamp": "2025-04-23T21:20:44.729603"
+        }
+      ]
+    },
+    {
+      "chatId": "ee717c18-33ed-4d1c-b8d4-b8bb91f68f4d",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-04-23T21:20:44.761617"
+        },
+        {
+          "role": "assistant",
+          "content": "Hang in there! Cravings can be tough, but they don't last forever. Here are a few things you can try:\n\n*   **Distract yourself:** Do something that occupies your mind, like reading, listening to music, or doing a chore.\n*   **The 4 D's:** Delay (wait it out \u2013 it will pass!), Distract (yourself with an activity), Drink water, Deep breathe.\n*   **Call a friend:** Talking to someone can help take your mind off the craving.\n\nYou might also find helpful videos in the app on managing cravings. You've got this!\n",
+          "timestamp": "2025-04-23T21:20:46.431287"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: but i really want to smoke i cannot ",
+          "timestamp": "2025-04-23T21:21:00.928935"
+        },
+        {
+          "role": "assistant",
+          "content": "I understand. It's incredibly tough when you feel like you absolutely *cannot* resist. Remember how far you've come! Don't beat yourself up. Let's refocus.\n\nTry revisiting those craving management videos in the app - sometimes just hearing those tips again can make a difference. Focus on the 4 D's: Delay, Distract, Drink water, and Deep Breathe. Can you get through the next 5 minutes without smoking? Then the next 5 after that? You are stronger than this craving.\n",
+          "timestamp": "2025-04-23T21:21:02.312760"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: but i really want to smoke i cannot sst",
+          "timestamp": "2025-04-23T21:21:02.332555"
+        },
+        {
+          "role": "assistant",
+          "content": "I hear you. That feeling of needing a cigarette *right now* is so intense. You're not alone, and it's okay to feel this way. Don't give up on yourself!\n\nTry watching some of the craving management videos in the app again - they might help you remember some coping strategies in the moment. In the meantime, focus on your breathing. Slow, deep breaths can really calm those urgent feelings. Can you hold on just a little longer?\n",
+          "timestamp": "2025-04-23T21:21:05.493791"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: but i really want to smoke i cannot stop myslef",
+          "timestamp": "2025-04-23T21:21:05.509941"
+        },
+        {
+          "role": "assistant",
+          "content": "It's completely understandable that you're feeling overwhelmed. That urge to smoke can feel incredibly powerful. Don't feel like you've failed! You're still in the fight.\n\nHave you tried looking at the videos about managing cravings? Sometimes seeing them again can give you a needed boost and remind you of helpful strategies. Can you try distracting yourself for just 10 minutes? Maybe a quick walk, listening to music, or calling a friend? You've got this!\n",
+          "timestamp": "2025-04-23T21:21:07.205290"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: but i really want to smoke i cannot stop myself what should i do",
+          "timestamp": "2025-04-23T21:21:10.998950"
+        },
+        {
+          "role": "assistant",
+          "content": "I know exactly how you feel. It's so tough when you feel like you can't control the urge. The important thing is you're recognizing it and reaching out.\n\nI recommend watching a quick video in the app \u2013 maybe one about dealing with strong cravings or relapse prevention? Sometimes a visual reminder of strategies can make a difference. Also, try to identify what's triggering this intense craving. Knowing your triggers can help you develop a plan to manage them in the future. You can get through this!\n",
+          "timestamp": "2025-04-23T21:21:14.709735"
+        },
+        {
+          "role": "user",
+          "content": "but i really want to smoke i cannot stop myself what should i do",
+          "timestamp": "2025-04-23T21:21:14.725755"
+        },
+        {
+          "role": "assistant",
+          "content": "I understand. It's really hard when you feel like you're losing control. Don't beat yourself up about it; this is a normal part of the process.\n\nSeriously consider checking out the videos in the app \u2013 sometimes hearing those tips again can be really helpful. In the meantime, can you try the 5 D's? Delay (wait a few minutes), Distract yourself, Drink water, Deep breathe, and Discuss your feelings with someone. You're stronger than you think!\n",
+          "timestamp": "2025-04-23T21:21:16.103795"
+        }
+      ]
     }
   ]
 }

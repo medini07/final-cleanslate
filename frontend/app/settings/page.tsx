@@ -30,8 +30,7 @@ const SettingsPage = () => {
                       <input 
                         type="text" 
                         id="name" 
-                        defaultValue="Alex Johnson"
-                        className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
+                        defaultValue="ayamika"                        className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
                       />
                     </div>
                     <div>
@@ -39,7 +38,7 @@ const SettingsPage = () => {
                       <input 
                         type="email" 
                         id="email" 
-                        defaultValue="alex@example.com"
+                        defaultValue="ayamikaex@example.com"
                         className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
                       />
                     </div>

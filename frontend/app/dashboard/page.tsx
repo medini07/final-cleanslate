@@ -12,7 +12,7 @@ ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, T
 
 // Dummy data for the dashboard
 const dummyUser = {
-  name: 'Alex Johnson',
+  name: 'Ayam ',
   age: 32,
   startDate: '2025-03-15',
   initialCigarettes: 20,

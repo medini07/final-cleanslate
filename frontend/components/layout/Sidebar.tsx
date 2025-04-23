@@ -86,8 +86,8 @@ const Sidebar: React.FC<SidebarProps> = ({ onClose }) => {
   ];
 
   const userData = {
-    name: 'Alex Johnson',
-    email: 'alex@example.com',
+    name: 'ayamikaa',
+    email: 'ayamika@example.com',
     avatar: 'https://randomuser.me/api/portraits/men/32.jpg',
     progress: 'Week 3 of 8',
   };
